@@ -22,3 +22,13 @@ Membuat aplikasi Android dengan penyimpanan data di MySQL
 <h2> -+ Output </h2>
 
 ![Output](https://user-images.githubusercontent.com/61817589/153736886-17955836-430f-496b-93fa-d4e939ab6875.png)
+
+<hr>
+
+<h1>About</h1>
+
+[Instagram](https://www.instagram.com/hels.ae/)
+
+[LinkIn](https://www.linkedin.com/in/helmisalsabila9/)
+
+[Youtube](https://www.youtube.com/channel/UCV3nFQJw1bf03Ds9Pf5JcxA)
