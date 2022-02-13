@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Helmi_Android_MySql</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="tambah_employee">tambah_employee</string>
+    <string name="tambah_company">tambah_company</string>
+    <string name="data_employee">Data Employee</string>
+    <string name="data_company">Data Company</string>
+    <!--    <item name="buttonAdd" type="id">buttonAdd</item>-->
+    <!--    <item name="editTextSalaryEmp" type="id">editTextSalaryEmp</item>-->
+    <!--    <item name="editTextDesgEmp" type="id">editTextDesgEmp</item>-->
+    <!--    <item name="editTextNameEmp" type="id">editTextNameEmp</item>-->
+    <!--    <item name="add_emp" type="id">add_emp</item>-->
+</resources>
