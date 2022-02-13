@@ -21,7 +21,7 @@ Membuat aplikasi Android dengan penyimpanan data di MySQL
 
 <h2> -+ Output </h2>
 
-![Output](https://user-images.githubusercontent.com/61817589/153736886-17955836-430f-496b-93fa-d4e939ab6875.png)
+![Ouput](https://user-images.githubusercontent.com/61817589/153744057-999b6693-3f61-4ff7-944a-3aa82d91a960.png)
 
 <hr>
 
